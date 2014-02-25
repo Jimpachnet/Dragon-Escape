@@ -6,5 +6,5 @@ softdepend: [Vault]
 commands:
    dragonescape:
       description: Main command
-      usage: /dragonescape <action>
+      usage: /dragonescape <action> [argument]
       aliases: [de]
